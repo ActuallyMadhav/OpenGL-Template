@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(OpenGL_Test)
+project(app)
 
 # 1. Set C++ Standard
 set(CMAKE_CXX_STANDARD 17)
