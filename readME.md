@@ -62,6 +62,18 @@ make
 ./app
 ```
 
+# One Click Build:
+Run:
+```bash
+chmod +x build.sh
+```
+in your project root directory's terminal to give permission to run the shell script.
+
+Then run:
+```bash
+./build.sh
+```
+
 ## 4. Troubleshooting
 * **Header Not Found:** Ensure your `#include` lines in `main.cpp` look like this:
     * `#include <glad/glad.h>`
